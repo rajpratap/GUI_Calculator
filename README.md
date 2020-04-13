@@ -1,6 +1,8 @@
 # calculator by python
 This is a graphical calculator developed by me,using tkinter GUI module.
 
+![](https://github.com/rajpratap/GUI_Calculator/blob/master/images/Capture.PNG)
+
 ## Requirements
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install packages.
